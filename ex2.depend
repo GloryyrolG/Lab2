@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511771639 source:/home/glory/Documents/study/1112/ex2/ex2.cpp
+	"utility.h"
+
+1511771656 /home/glory/Documents/study/1112/ex2/utility.h
+	<bits/stdc++.h>
+
+1511771792 source:/home/glory/Documents/study/1112/ex2/utility.cpp
+	"utility.h"
+
